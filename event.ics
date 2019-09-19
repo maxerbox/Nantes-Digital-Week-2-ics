@@ -1,0 +1,1605 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:29491a36-e1d7-4a8b-a5fa-6a6343d43e5a
+SUMMARY:⚠️⚠️ Tout ce que vous avez toujours voulu savoir sur l’expérimentat
+	ion urbaine…
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DESCRIPTION:Tout ce que vous avez toujours voulu savoir sur l’expérimentati
+	on urbaine…\nhttps://www.nantesdigitalweek.com/evenement-2019/tout-ce-que-
+	vous-avez-toujours-voulu-savoir-sur-lexperimentation-urbaine/\nLes 12 sept
+	. 2019\n\n-----------\n<div><p class='date'>Les 12 sept. 2019</p><p><a hre
+	f='https://www.nantesdigitalweek.com/evenement-2019/tout-ce-que-vous-avez-
+	toujours-voulu-savoir-sur-lexperimentation-urbaine/' title='Tout ce que vo
+	us avez toujours voulu savoir sur l&#8217\;expérimentation urbaine&#8230\;
+	'>Tout ce que vous avez toujours voulu savoir sur l&#8217\;expérimentation
+	 urbaine&#8230\;</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/tout-ce-que-vous-avez-
+	toujours-voulu-savoir-sur-lexperimentation-urbaine/
+GEO:47.206414;-1.5605269999999791
+END:VEVENT
+BEGIN:VEVENT
+UID:cae7b55f-c2d7-4160-bd95-67ad77bac388
+SUMMARY:⚠️⚠️ Mon maire\, ce robot ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Mon maire\, ce robot ?\nhttps://www.nantesdigitalweek.com/evene
+	ment-2019/mon-maire-ce-robot/\nLes 19 sept. 2019\n\n-----------\n<div><p c
+	lass='date'>Les 19 sept. 2019</p><p><a href='https://www.nantesdigitalweek
+	.com/evenement-2019/mon-maire-ce-robot/' title='Mon maire\, ce robot ?'>Mo
+	n maire\, ce robot ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/mon-maire-ce-robot/
+GEO:47.2146263;-1.5450531000000183
+END:VEVENT
+BEGIN:VEVENT
+UID:baa35106-6b3e-4bd8-b972-8ac3c4025ff6
+SUMMARY:⚠️⚠️ Enedis Data Day
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Enedis Data Day\nhttps://www.nantesdigitalweek.com/evenement-20
+	19/enedis-data-day/\nLe 19 sept. 2019\n\n-----------\n<div><p class='date'
+	>Le 19 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eveneme
+	nt-2019/enedis-data-day/' title='Enedis Data Day'>Enedis Data Day</a></p><
+	/div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/enedis-data-day/
+GEO:47.21999;-1.556130899999971
+END:VEVENT
+BEGIN:VEVENT
+UID:9315090f-d14b-4a2d-9311-e38f29e1d508
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc0bee9-5467-4c76-9ef3-a3918bc98665
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7c99e0-f66e-4dad-92ff-6a81e410c876
+SUMMARY:⚠️⚠️ TOTEM
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:TOTEM\nhttps://www.nantesdigitalweek.com/evenement-2019/totem-e
+	venement/\n21 sept. 2019\n\n-----------\n<div><p class='date'>21 sept. 201
+	9</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/totem-ev
+	enement/' title='TOTEM'>TOTEM</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/totem-evenement/
+GEO:47.20533529999999;-1.5636394000000564
+END:VEVENT
+BEGIN:VEVENT
+UID:888abb5d-441b-492b-97e9-945837c7d876
+SUMMARY:⚠️⚠️ Geek Art\, conférence pop culture
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Geek Art\, conférence pop culture\nhttps://www.nantesdigitalwee
+	k.com/evenement-2019/geek-art-conference-pop-culture/\n17 sept. 2019\n\n--
+	---------\n<div><p class='date'>17 sept. 2019</p><p><a href='https://www.n
+	antesdigitalweek.com/evenement-2019/geek-art-conference-pop-culture/' titl
+	e='Geek Art\, conférence pop culture'>Geek Art\, conférence pop culture</a
+	></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/geek-art-conference-po
+	p-culture/
+GEO:47.211327;-1.5621505999999954
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fb99b7-8162-4eaf-999c-5431f7c3cbcc
+SUMMARY:⚠️⚠️ Coding géant
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Coding géant\nhttps://www.nantesdigitalweek.com/evenement-2019/
+	coding-minecraft-geant/\n18 sept. 2019\n\n-----------\n<div><p class='date
+	'>18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement
+	-2019/coding-minecraft-geant/' title='Coding géant'>Coding géant</a></p></
+	div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/coding-minecraft-geant
+	/
+GEO:47.20138;-1.5597482000000582
+END:VEVENT
+BEGIN:VEVENT
+UID:22ea0440-1a8d-4190-bc6b-321778d8430a
+SUMMARY:⚠️⚠️ Comment protéger efficacement les données de votre entreprise 
+	? Venez vivre une cyber-attaque en temps réel !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Comment protéger efficacement les données de votre entreprise ?
+	 Venez vivre une cyber-attaque en temps réel !\nhttps://www.nantesdigitalw
+	eek.com/evenement-2019/securite-entreprises-face-aux-nouveaux-usages-numer
+	iques/\n19 sept.  2019\n\n-----------\n<div><p class='date'>19 sept.  2019
+	</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/securite-
+	entreprises-face-aux-nouveaux-usages-numeriques/' title='Comment protéger 
+	efficacement les données de votre entreprise ? Venez vivre une cyber-attaq
+	ue en temps réel !'>Comment protéger efficacement les données de votre ent
+	reprise ? Venez vivre une cyber-attaque en temps réel !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/securite-entreprises-f
+	ace-aux-nouveaux-usages-numeriques/
+GEO:47.2336372;-1.5441088000000036
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce0dc5a-2002-4291-99ba-c4e34918bf0e
+SUMMARY:⚠️⚠️ Le digital au service du patient
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Le digital au service du patient\nhttps://www.nantesdigitalweek
+	.com/evenement-2019/le-digital-au-service-du-patient/\n18 sept. 2019\n\n--
+	---------\n<div><p class='date'>18 sept. 2019</p><p><a href='https://www.n
+	antesdigitalweek.com/evenement-2019/le-digital-au-service-du-patient/' tit
+	le='Le digital au service du patient'>Le digital au service du patient</a>
+	</p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/le-digital-au-service-
+	du-patient/
+GEO:47.2058498;-1.56128549999994
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4fdfbe-d3f5-420f-9af6-94c44bc30645
+SUMMARY:⚠️⚠️ Portes ouvertes des lieux qui vous accompagnent sur les pratiq
+	ues du numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Portes ouvertes des lieux qui vous accompagnent sur les pratiqu
+	es du numérique\nhttps://www.nantesdigitalweek.com/evenement-2019/portes-o
+	uvertes-des-lieux-de-mediation-numerique/\n18 sept. 2019\n\n-----------\n<
+	div><p class='date'>18 sept. 2019</p><p><a href='https://www.nantesdigital
+	week.com/evenement-2019/portes-ouvertes-des-lieux-de-mediation-numerique/'
+	 title='Portes ouvertes des lieux qui vous accompagnent sur les pratiques 
+	du numérique'>Portes ouvertes des lieux qui vous accompagnent sur les prat
+	iques du numérique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/portes-ouvertes-des-li
+	eux-de-mediation-numerique/
+GEO:47.218371;-1.553621000000021
+END:VEVENT
+BEGIN:VEVENT
+UID:0f89a0ee-8bc1-4742-89db-f2edafeab985
+SUMMARY:⚠️⚠️ Un robot au service de votre performance : participez à sa pro
+	grammation lors d’une expérience unique !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Un robot au service de votre performance : participez à sa prog
+	rammation lors d’une expérience unique !\nhttps://www.nantesdigitalweek.co
+	m/evenement-2019/programmation-robot/\n19 sept.  2019\n\n-----------\n<div
+	><p class='date'>19 sept.  2019</p><p><a href='https://www.nantesdigitalwe
+	ek.com/evenement-2019/programmation-robot/' title='Un robot au service de 
+	votre performance : participez à sa programmation lors d’une expérience un
+	ique !'>Un robot au service de votre performance : participez à sa program
+	mation lors d’une expérience unique !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/programmation-robot/
+GEO:47.2047287;-1.5622386999999662
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd54c41-4e56-4ec8-909a-eba52f61e745
+SUMMARY:⚠️⚠️ Forum Jeunes Numériques
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:Forum Jeunes Numériques\nhttps://www.nantesdigitalweek.com/even
+	ement-2019/forum-jeunes-numeriques/\n21 sept. 2019\n\n-----------\n<div><p
+	 class='date'>21 sept. 2019</p><p><a href='https://www.nantesdigitalweek.c
+	om/evenement-2019/forum-jeunes-numeriques/' title='Forum Jeunes Numériques
+	'>Forum Jeunes Numériques</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/forum-jeunes-numerique
+	s/
+GEO:47.2070506;-1.5604375000000346
+END:VEVENT
+BEGIN:VEVENT
+UID:67db15f8-70d0-4398-898a-e5456bfc9ecb
+SUMMARY:⚠️⚠️ Numérique et création artistique : une rencontre pas si virtue
+	lle
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Numérique et création artistique : une rencontre pas si virtuel
+	le\nhttps://www.nantesdigitalweek.com/evenement-2019/numerique-et-creation
+	-artistique/\n19 sept.  2019\n\n-----------\n<div><p class='date'>19 sept.
+	  2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/num
+	erique-et-creation-artistique/' title='Numérique et création artistique : 
+	une rencontre pas si virtuelle'>Numérique et création artistique : une ren
+	contre pas si virtuelle</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/numerique-et-creation-
+	artistique/
+GEO:47.2119474;-1.6149218000000474
+END:VEVENT
+BEGIN:VEVENT
+UID:45c5a2af-2f02-49f1-ae41-22ffcc71cf1a
+SUMMARY:⚠️⚠️ Vivre heureux.se avec le numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:Vivre heureux.se avec le numérique\nhttps://www.nantesdigitalwe
+	ek.com/evenement-2019/vivre-heureux-avec-le-numerique/\n13 sept. 2019\n\n-
+	----------\n<div><p class='date'>13 sept. 2019</p><p><a href='https://www.
+	nantesdigitalweek.com/evenement-2019/vivre-heureux-avec-le-numerique/' tit
+	le='Vivre heureux.se avec le numérique'>Vivre heureux.se avec le numérique
+	</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/vivre-heureux-avec-le-
+	numerique/
+GEO:47.1922791;-1.577678600000013
+END:VEVENT
+BEGIN:VEVENT
+UID:d801ad69-f749-4771-8ed0-5780f4b93392
+SUMMARY:⚠️⚠️ Atelier 1 enfant/1 senior : construction et programmation des 
+	robots Algora
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Atelier 1 enfant/1 senior : construction et programmation des r
+	obots Algora\nhttps://www.nantesdigitalweek.com/evenement-2019/atelier-con
+	struction-programmation-des-robots-algora-2/\n14 sept. 2019\n\n-----------
+	\n<div><p class='date'>14 sept. 2019</p><p><a href='https://www.nantesdigi
+	talweek.com/evenement-2019/atelier-construction-programmation-des-robots-a
+	lgora-2/' title='Atelier 1 enfant/1 senior : construction et programmation
+	 des robots Algora'>Atelier 1 enfant/1 senior : construction et programmat
+	ion des robots Algora</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/atelier-construction-p
+	rogrammation-des-robots-algora-2/
+GEO:47.2258511;-1.6178446000000122
+END:VEVENT
+BEGIN:VEVENT
+UID:c413621e-7a41-4657-acad-27f62413b622
+SUMMARY:⚠️⚠️ Patrimoine numérique : le RGPD en pratique ? Comment le brevet
+	 protège vos logiciels ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Patrimoine numérique : le RGPD en pratique ? Comment le brevet 
+	protège vos logiciels ?\nhttps://www.nantesdigitalweek.com/evenement-2019/
+	transition-numerique-et-logiciel-definir-une-strategie-gagnante/\n17 sept.
+	 2019\n\n-----------\n<div><p class='date'>17 sept. 2019</p><p><a href='ht
+	tps://www.nantesdigitalweek.com/evenement-2019/transition-numerique-et-log
+	iciel-definir-une-strategie-gagnante/' title='Patrimoine numérique : le RG
+	PD en pratique ? Comment le brevet protège vos logiciels ?'>Patrimoine num
+	érique : le RGPD en pratique ? Comment le brevet protège vos logiciels ?</
+	a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/transition-numerique-e
+	t-logiciel-definir-une-strategie-gagnante/
+GEO:47.20863250000001;-1.539320900000007
+END:VEVENT
+BEGIN:VEVENT
+UID:e91671e5-272c-4d9d-a394-60c8cc13b9cb
+SUMMARY:⚠️⚠️ HandiCamp : agir Ensemble !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:HandiCamp : agir Ensemble !\nhttps://www.nantesdigitalweek.com/
+	evenement-2019/handicamp-agir-ensemble/\n19 sept.  2019\n\n-----------\n<d
+	iv><p class='date'>19 sept.  2019</p><p><a href='https://www.nantesdigital
+	week.com/evenement-2019/handicamp-agir-ensemble/' title='HandiCamp : agir 
+	Ensemble !'>HandiCamp : agir Ensemble !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/handicamp-agir-ensembl
+	e/
+GEO:47.2063581;-1.5406011999999691
+END:VEVENT
+BEGIN:VEVENT
+UID:669ab75f-14c0-41ab-bc78-8c9115546f7e
+SUMMARY:⚠️⚠️ Concours Fundtruck
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:Concours Fundtruck\nhttps://www.nantesdigitalweek.com/evenement
+	-2019/concours-fundtruck/\n13 sept. 2019\n\n-----------\n<div><p class='da
+	te'>13 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eveneme
+	nt-2019/concours-fundtruck/' title='Concours Fundtruck'>Concours Fundtruck
+	</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/concours-fundtruck/
+GEO:47.2133021;-1.5582154999999602
+END:VEVENT
+BEGIN:VEVENT
+UID:4a4ae97b-6b03-4287-9b0c-464a83870851
+SUMMARY:⚠️⚠️ Trophées PME 2019 : réussir avec le numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Trophées PME 2019 : réussir avec le numérique\nhttps://www.nant
+	esdigitalweek.com/evenement-2019/trophees-pme-2019/\n19 sept.  2019\n\n---
+	--------\n<div><p class='date'>19 sept.  2019</p><p><a href='https://www.n
+	antesdigitalweek.com/evenement-2019/trophees-pme-2019/' title='Trophées PM
+	E 2019 : réussir avec le numérique'>Trophées PME 2019 : réussir avec le nu
+	mérique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/trophees-pme-2019/
+GEO:47.212407;-1.5696014000000105
+END:VEVENT
+BEGIN:VEVENT
+UID:4a2ddc52-b19b-4df1-8039-dce37d5bf687
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+END:VEVENT
+BEGIN:VEVENT
+UID:12aadd67-8bb2-479d-9dd1-b67139ade818
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+END:VEVENT
+BEGIN:VEVENT
+UID:32bda179-029b-4a38-b1ee-251b38047f75
+SUMMARY:⚠️⚠️ RSE\, QVT\, Bien-être…Transformez votre entreprise de l’intéri
+	eur !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:RSE\, QVT\, Bien-être…Transformez votre entreprise de l’intérie
+	ur !\nhttps://www.nantesdigitalweek.com/evenement-2019/rse-qvt-transformez
+	-votre-entreprise/\n13 sept. 2019\n\n-----------\n<div><p class='date'>13 
+	sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019
+	/rse-qvt-transformez-votre-entreprise/' title='RSE\, QVT\, Bien-être&#8230
+	\;Transformez votre entreprise de l&#8217\;intérieur !'>RSE\, QVT\, Bien-ê
+	tre&#8230\;Transformez votre entreprise de l&#8217\;intérieur !</a></p></d
+	iv>
+URL:https://www.nantesdigitalweek.com/evenement-2019/rse-qvt-transformez-vo
+	tre-entreprise/
+GEO:47.2335005;-1.6272802999999385
+END:VEVENT
+BEGIN:VEVENT
+UID:ec03f1b5-61e8-4e91-a6ef-4e1f86ca89e1
+SUMMARY:⚠️⚠️ Safari des Métiers du Numérique 2019
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Safari des Métiers du Numérique 2019\nhttps://www.nantesdigital
+	week.com/evenement-2019/safari-des-metiers-du-numerique-2019/\n17 sept. 20
+	19\n\n-----------\n<div><p class='date'>17 sept. 2019</p><p><a href='https
+	://www.nantesdigitalweek.com/evenement-2019/safari-des-metiers-du-numeriqu
+	e-2019/' title='Safari des Métiers du Numérique 2019'>Safari des Métiers d
+	u Numérique 2019</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/safari-des-metiers-du-
+	numerique-2019/
+GEO:47.2139633;-1.543794700000035
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9afc59-43ec-447f-a288-3f09e1723736
+SUMMARY:⚠️⚠️ Welcome on board
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Welcome on board\nhttps://www.nantesdigitalweek.com/evenement-2
+	019/welcome-on-board/\n18 sept. 2019\n\n-----------\n<div><p class='date'>
+	18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/welcome-on-board/' title='Welcome on board'>Welcome on board</a></p></
+	div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/welcome-on-board/
+GEO:47.2038885;-1.5690008000000262
+END:VEVENT
+BEGIN:VEVENT
+UID:7b46b235-7463-49fe-bb16-7ed648cde004
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+END:VEVENT
+BEGIN:VEVENT
+UID:cf94fa1a-3fca-45f5-b44d-b44f12dac0f5
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+END:VEVENT
+BEGIN:VEVENT
+UID:bbed8772-5393-4861-ba49-1e79f962ad1f
+SUMMARY:⚠️⚠️ Explorez le Laboratoire des Usages Numériques de Loire-Atlanti
+	que
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:Explorez le Laboratoire des Usages Numériques de Loire-Atlantiq
+	ue\nhttps://www.nantesdigitalweek.com/evenement-2019/laboratoire-des-usage
+	s-numeriques-de-loire-atlantique/\n21 sept. 2019\n\n-----------\n<div><p c
+	lass='date'>21 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com
+	/evenement-2019/laboratoire-des-usages-numeriques-de-loire-atlantique/' ti
+	tle='Explorez le Laboratoire des Usages Numériques de Loire-Atlantique'>Ex
+	plorez le Laboratoire des Usages Numériques de Loire-Atlantique</a></p></d
+	iv>
+URL:https://www.nantesdigitalweek.com/evenement-2019/laboratoire-des-usages
+	-numeriques-de-loire-atlantique/
+GEO:47.2066897;-1.5467187000000422
+END:VEVENT
+BEGIN:VEVENT
+UID:23cc4154-54af-4e87-9931-a67d3b0e6b11
+SUMMARY:⚠️⚠️ L’Intelligence artificielle au service de la prise en charge d
+	u/de la patient·e
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:L’Intelligence artificielle au service de la prise en charge du
+	/de la patient·e\nhttps://www.nantesdigitalweek.com/evenement-2019/intelli
+	gence-artificielle-au-service-de-la-prise-en-charge-du-patient/\n13 sept. 
+	2019\n\n-----------\n<div><p class='date'>13 sept. 2019</p><p><a href='htt
+	ps://www.nantesdigitalweek.com/evenement-2019/intelligence-artificielle-au
+	-service-de-la-prise-en-charge-du-patient/' title='L&#8217\;Intelligence a
+	rtificielle au service de la prise en charge du/de la patient·e'>L&#8217\;
+	Intelligence artificielle au service de la prise en charge du/de la patien
+	t·e</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/intelligence-artificie
+	lle-au-service-de-la-prise-en-charge-du-patient/
+GEO:47.2445647;-1.6355204000000185
+END:VEVENT
+BEGIN:VEVENT
+UID:ff981634-c16a-47ad-a7df-ca248ac21a91
+SUMMARY:⚠️⚠️ A quoi ça sert de coder ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:A quoi ça sert de coder ?\nhttps://www.nantesdigitalweek.com/ev
+	enement-2019/a-quoi-ca-sert-de-coder/\n17 sept. 2019\n\n-----------\n<div>
+	<p class='date'>17 sept. 2019</p><p><a href='https://www.nantesdigitalweek
+	.com/evenement-2019/a-quoi-ca-sert-de-coder/' title='A quoi ça sert de cod
+	er ?'>A quoi ça sert de coder ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/a-quoi-ca-sert-de-code
+	r/
+GEO:47.211327;-1.5621505999999954
+END:VEVENT
+BEGIN:VEVENT
+UID:6de92284-d070-4172-94be-70963cde27db
+SUMMARY:⚠️⚠️ ANNULÉ – Digital Dating #4 // Scopitone Spirits
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:ANNULÉ – Digital Dating #4 // Scopitone Spirits\nhttps://www.na
+	ntesdigitalweek.com/evenement-2019/digital-dating-4-scopitone-spirits/\n19
+	 sept.  2019\n\n-----------\n<div><p class='date'>19 sept.  2019</p><p><a 
+	href='https://www.nantesdigitalweek.com/evenement-2019/digital-dating-4-sc
+	opitone-spirits/' title='ANNULÉ &#8211\; Digital Dating #4 // Scopitone Sp
+	irits'>ANNULÉ &#8211\; Digital Dating #4 // Scopitone Spirits</a></p></div
+	>
+URL:https://www.nantesdigitalweek.com/evenement-2019/digital-dating-4-scopi
+	tone-spirits/
+GEO:47.1985803;-1.5530860999999732
+END:VEVENT
+BEGIN:VEVENT
+UID:130fd87a-9673-4947-9030-df629d903437
+SUMMARY:⚠️⚠️ DÉCALÉ AU 30 SEPT 2019 : Découverte du Design Thinking : Comme
+	nt changer l’éducation à l’aube de l’intelligence artificielle ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190930
+DESCRIPTION:DÉCALÉ AU 30 SEPT 2019 : Découverte du Design Thinking : Commen
+	t changer l’éducation à l’aube de l’intelligence artificielle ?\nhttps://w
+	ww.nantesdigitalweek.com/evenement-2019/design-thinking-education-ia/\n30 
+	sept. 2019\n\n-----------\n<div><p class='date'>30 sept. 2019</p><p><a hre
+	f='https://www.nantesdigitalweek.com/evenement-2019/design-thinking-educat
+	ion-ia/' title='DÉCALÉ AU 30 SEPT 2019 : Découverte du Design Thinking : C
+	omment changer l&#8217\;éducation à l&#8217\;aube de l&#8217\;intelligence
+	 artificielle ?'>DÉCALÉ AU 30 SEPT 2019 : Découverte du Design Thinking : 
+	Comment changer l&#8217\;éducation à l&#8217\;aube de l&#8217\;intelligenc
+	e artificielle ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/design-thinking-educat
+	ion-ia/
+GEO:47.2109598;-1.5494962000000214
+END:VEVENT
+BEGIN:VEVENT
+UID:5875a556-a3d1-4c05-88d6-040c9b3226fc
+SUMMARY:⚠️⚠️ Tourisme Digital Day
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Tourisme Digital Day\nhttps://www.nantesdigitalweek.com/eveneme
+	nt-2019/tourisme-digital-day/\n17 sept. 2019\n\n-----------\n<div><p class
+	='date'>17 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eve
+	nement-2019/tourisme-digital-day/' title='Tourisme Digital Day'>Tourisme D
+	igital Day</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/tourisme-digital-day/
+GEO:47.2452036;-1.5934310999999752
+END:VEVENT
+BEGIN:VEVENT
+UID:838b0513-9549-4681-a4ab-fc675991dd85
+SUMMARY:⚠️⚠️ Numérique et travail : focus sur le syndicalisme\, le télétrav
+	ail et la place des femmes à l’heure du numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Numérique et travail : focus sur le syndicalisme\, le télétrava
+	il et la place des femmes à l’heure du numérique\nhttps://www.nantesdigita
+	lweek.com/evenement-2019/numerique-et-travail/\n20 sept. 2019\n\n---------
+	--\n<div><p class='date'>20 sept. 2019</p><p><a href='https://www.nantesdi
+	gitalweek.com/evenement-2019/numerique-et-travail/' title='Numérique et tr
+	avail : focus sur le syndicalisme\, le télétravail et la place des femmes 
+	à l&#8217\;heure du numérique'>Numérique et travail : focus sur le syndica
+	lisme\, le télétravail et la place des femmes à l&#8217\;heure du numériqu
+	e</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/numerique-et-travail/
+GEO:47.2046416;-1.5589442000000417
+END:VEVENT
+BEGIN:VEVENT
+UID:c93cd807-51db-46f5-be15-5dc7c9913687
+SUMMARY:⚠️⚠️ Différent.e.s. et connecté.e.s !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Différent.e.s. et connecté.e.s !\nhttps://www.nantesdigitalweek
+	.com/evenement-2019/differents-et-connectes/\n20 sept. 2019\n\n-----------
+	\n<div><p class='date'>20 sept. 2019</p><p><a href='https://www.nantesdigi
+	talweek.com/evenement-2019/differents-et-connectes/' title='Différent.e.s.
+	 et connecté.e.s !'>Différent.e.s. et connecté.e.s !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/differents-et-connecte
+	s/
+GEO:47.2422725;-1.528930100000025
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b82b3d-ff9e-4085-a197-16db2704615f
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+END:VEVENT
+BEGIN:VEVENT
+UID:d4beb82e-ed42-4d40-be6a-dfeb07888910
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+END:VEVENT
+BEGIN:VEVENT
+UID:9e49b1e7-ee0a-450d-a6c6-255a2f6bdf9e
+SUMMARY:⚠️⚠️ Matinale IoT – Les étapes clés pour réussir son projet
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Matinale IoT – Les étapes clés pour réussir son projet\nhttps:/
+	/www.nantesdigitalweek.com/evenement-2019/matinale-iot-les-etapes-cles-pou
+	r-reussir-son-projet/\n17 sept. 2019\n\n-----------\n<div><p class='date'>
+	17 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/matinale-iot-les-etapes-cles-pour-reussir-son-projet/' title='Matinale
+	 IoT &#8211\; Les étapes clés pour réussir son projet'>Matinale IoT &#8211
+	\; Les étapes clés pour réussir son projet</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/matinale-iot-les-etape
+	s-cles-pour-reussir-son-projet/
+GEO:47.2329398;-1.6283578000000034
+END:VEVENT
+BEGIN:VEVENT
+UID:f37da93b-f269-4c24-adc1-d807da6e9853
+SUMMARY:⚠️⚠️ Osons le futur !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:Osons le futur !\nhttps://www.nantesdigitalweek.com/evenement-2
+	019/osons-le-futur/\n13 sept. 2019\n\n-----------\n<div><p class='date'>13
+	 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-201
+	9/osons-le-futur/' title='Osons le futur !'>Osons le futur !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/osons-le-futur/
+GEO:47.2122736;-1.5446014999999989
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d54488-8130-40a9-86e2-e151bd820721
+SUMMARY:⚠️⚠️ Libère ton savoir
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Libère ton savoir\nhttps://www.nantesdigitalweek.com/evenement-
+	2019/libere-ton-savoir/\n20 sept. 2019\n\n-----------\n<div><p class='date
+	'>20 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement
+	-2019/libere-ton-savoir/' title='Libère ton savoir'>Libère ton savoir</a><
+	/p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/libere-ton-savoir/
+GEO:47.24082629999999;-1.5127846999999974
+END:VEVENT
+BEGIN:VEVENT
+UID:97701455-8d6c-457a-acfc-f0fb497f2df5
+SUMMARY:⚠️⚠️ Matinale IoT – La sécurité des objets connectés
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Matinale IoT – La sécurité des objets connectés\nhttps://www.na
+	ntesdigitalweek.com/evenement-2019/securite-des-objets-connectes/\n19 sept
+	.  2019\n\n-----------\n<div><p class='date'>19 sept.  2019</p><p><a href=
+	'https://www.nantesdigitalweek.com/evenement-2019/securite-des-objets-conn
+	ectes/' title='Matinale IoT &#8211\; La sécurité des objets connectés'>Mat
+	inale IoT &#8211\; La sécurité des objets connectés</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/securite-des-objets-co
+	nnectes/
+GEO:47.2058498;-1.56128549999994
+END:VEVENT
+BEGIN:VEVENT
+UID:2384851e-8216-4c74-82e5-014825af0ee0
+SUMMARY:⚠️⚠️ Datarama #4 : dataviz une esthétique du réel ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Datarama #4 : dataviz une esthétique du réel ?\nhttps://www.nan
+	tesdigitalweek.com/evenement-2019/datarama-4/\n18 sept. 2019\n\n----------
+	-\n<div><p class='date'>18 sept. 2019</p><p><a href='https://www.nantesdig
+	italweek.com/evenement-2019/datarama-4/' title='Datarama #4 : dataviz une 
+	esthétique du réel ?'>Datarama #4 : dataviz une esthétique du réel ?</a></
+	p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/datarama-4/
+GEO:47.2045189;-1.5608392999999978
+END:VEVENT
+BEGIN:VEVENT
+UID:39cbcb03-7fff-49ff-b291-29ee9eccaefa
+SUMMARY:⚠️⚠️ Cap sur les RH : au cœur de la Transformation Numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Cap sur les RH : au cœur de la Transformation Numérique\nhttps:
+	//www.nantesdigitalweek.com/evenement-2019/rh-transformation-numerique/\n1
+	8 sept. 2019\n\n-----------\n<div><p class='date'>18 sept. 2019</p><p><a h
+	ref='https://www.nantesdigitalweek.com/evenement-2019/rh-transformation-nu
+	merique/' title='Cap sur les RH : au cœur de la Transformation Numérique'>
+	Cap sur les RH : au cœur de la Transformation Numérique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/rh-transformation-nume
+	rique/
+GEO:47.20863250000001;-1.539320900000007
+END:VEVENT
+BEGIN:VEVENT
+UID:80a900b7-0fc8-4d48-af6f-2c8aa7bf91b5
+SUMMARY:Néo makers // Artisanat\, design & numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:Néo makers // Artisanat\, design & numérique\nhttps://www.nante
+	sdigitalweek.com/evenement-2019/neo-makers-artisanat-design-numerique/\nDu
+	 19 au 22 sept. 2019\n\n-----------\n<div><p class='date'>Du 19 au 22 sept
+	. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/neo
+	-makers-artisanat-design-numerique/' title='Néo makers // Artisanat\, desi
+	gn &#038\; numérique'>Néo makers // Artisanat\, design &#038\; numérique</
+	a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/neo-makers-artisanat-d
+	esign-numerique/
+GEO:47.2047287;-1.5622386999999662
+END:VEVENT
+BEGIN:VEVENT
+UID:5576b328-6898-46dd-af9b-b21ccdb71043
+SUMMARY:⚠️⚠️ Carrément Robots
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Carrément Robots\nhttps://www.nantesdigitalweek.com/evenement-2
+	019/carrement-robots/\n14 sept. 2019\n\n-----------\n<div><p class='date'>
+	14 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/carrement-robots/' title='Carrément Robots'>Carrément Robots</a></p></
+	div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/carrement-robots/
+GEO:47.212672;-1.6086482000000615
+END:VEVENT
+BEGIN:VEVENT
+UID:c629f3a9-574b-4566-9e32-4426895c5041
+SUMMARY:⚠️⚠️ Animations Numériques
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190922
+DESCRIPTION:Animations Numériques\nhttps://www.nantesdigitalweek.com/evenem
+	ent-2019/animations-numeriques/\n22 sept. 2019\n\n-----------\n<div><p cla
+	ss='date'>22 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/e
+	venement-2019/animations-numeriques/' title='Animations Numériques'>Animat
+	ions Numériques</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/animations-numeriques/
+GEO:47.24818529999999;-1.5873576000000185
+END:VEVENT
+BEGIN:VEVENT
+UID:24dfe143-0a0e-417b-9b4c-b2c7ae3c301f
+SUMMARY:⚠️⚠️ REPORTÉ AU 12/11/19 – Meet Your Startup – L’événement de renco
+	ntre entre startups et futurs associés.
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:REPORTÉ AU 12/11/19 – Meet Your Startup – L’événement de rencon
+	tre entre startups et futurs associés.\nhttps://www.nantesdigitalweek.com/
+	evenement-2019/meet-your-startup/\n19 sept.  2019\n\n-----------\n<div><p 
+	class='date'>19 sept.  2019</p><p><a href='https://www.nantesdigitalweek.c
+	om/evenement-2019/meet-your-startup/' title='REPORTÉ AU 12/11/19 &#8211\; 
+	Meet Your Startup &#8211\; L’événement de rencontre entre startups et futu
+	rs associés.'>REPORTÉ AU 12/11/19 &#8211\; Meet Your Startup &#8211\; L’év
+	énement de rencontre entre startups et futurs associés.</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/meet-your-startup/
+GEO:47.2070626;-1.558855499999936
+END:VEVENT
+BEGIN:VEVENT
+UID:c82602cb-e3c8-4468-920d-b32f6947471a
+SUMMARY:⚠️⚠️ Code in the Dark
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Code in the Dark\nhttps://www.nantesdigitalweek.com/evenement-2
+	019/code-in-the-dark/\n20 sept. 2019\n\n-----------\n<div><p class='date'>
+	20 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/code-in-the-dark/' title='Code in the Dark'>Code in the Dark</a></p></
+	div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/code-in-the-dark/
+GEO:47.2047695;-1.568371999999954
+END:VEVENT
+BEGIN:VEVENT
+UID:b52ad2eb-7253-4758-85f6-7608eea52098
+SUMMARY:⚠️⚠️ Un job pour toi dans le numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:Un job pour toi dans le numérique\nhttps://www.nantesdigitalwee
+	k.com/evenement-2019/un-job-pour-toi-dans-le-numerique/\n21 sept. 2019\n\n
+	-----------\n<div><p class='date'>21 sept. 2019</p><p><a href='https://www
+	.nantesdigitalweek.com/evenement-2019/un-job-pour-toi-dans-le-numerique/' 
+	title='Un job pour toi dans le numérique'>Un job pour toi dans le numériqu
+	e</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/un-job-pour-toi-dans-l
+	e-numerique/
+GEO:47.2447591;-1.6098345000000336
+END:VEVENT
+BEGIN:VEVENT
+UID:80c3ab68-7d40-4cf4-91d8-a0e73d75c7ab
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f0ce6d-feca-4b7c-91ab-ab3a1fc1bcb4
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+END:VEVENT
+BEGIN:VEVENT
+UID:1915973c-898a-4c82-8e71-338b186e13b8
+SUMMARY:⚠️⚠️ E-commerce et B2C : clés de la réussite et points de vigilance
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:E-commerce et B2C : clés de la réussite et points de vigilance\
+	nhttps://www.nantesdigitalweek.com/evenement-2019/e-commerce-et-b2c-cles-d
+	e-la-reussite-et-points-de-vigilance/\n19 sept.  2019\n\n-----------\n<div
+	><p class='date'>19 sept.  2019</p><p><a href='https://www.nantesdigitalwe
+	ek.com/evenement-2019/e-commerce-et-b2c-cles-de-la-reussite-et-points-de-v
+	igilance/' title='E-commerce et B2C : clés de la réussite et points de vig
+	ilance'>E-commerce et B2C : clés de la réussite et points de vigilance</a>
+	</p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/e-commerce-et-b2c-cles
+	-de-la-reussite-et-points-de-vigilance/
+GEO:47.2067254;-1.5623511999999664
+END:VEVENT
+BEGIN:VEVENT
+UID:b16fcae8-e62f-47af-ae85-de6040698ec1
+SUMMARY:⚠️⚠️ Cadre juridique des réseaux sociaux : points d’attention et de
+	 vigilance
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Cadre juridique des réseaux sociaux : points d’attention et de 
+	vigilance\nhttps://www.nantesdigitalweek.com/evenement-2019/cadre-juridiqu
+	e-des-reseaux-sociaux/\n18 sept. 2019\n\n-----------\n<div><p class='date'
+	>18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-
+	2019/cadre-juridique-des-reseaux-sociaux/' title='Cadre juridique des rése
+	aux sociaux : points d&#8217\;attention et de vigilance'>Cadre juridique d
+	es réseaux sociaux : points d&#8217\;attention et de vigilance</a></p></di
+	v>
+URL:https://www.nantesdigitalweek.com/evenement-2019/cadre-juridique-des-re
+	seaux-sociaux/
+GEO:47.2067254;-1.5623511999999664
+END:VEVENT
+BEGIN:VEVENT
+UID:53d55da7-9b0e-4a3a-bce2-9e8684df6833
+SUMMARY:⚠️⚠️ Le nez sur l’écran
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Le nez sur l’écran\nhttps://www.nantesdigitalweek.com/evenement
+	-2019/le-nez-sur-ecran/\n18 sept. 2019\n\n-----------\n<div><p class='date
+	'>18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement
+	-2019/le-nez-sur-ecran/' title='Le nez sur l&#8217\;écran'>Le nez sur l&#8
+	217\;écran</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/le-nez-sur-ecran/
+GEO:47.2061299;-1.615337899999986
+END:VEVENT
+BEGIN:VEVENT
+UID:b9062050-dce4-492d-81c5-bf12ba9b6c8e
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+END:VEVENT
+BEGIN:VEVENT
+UID:534ebb50-3a6f-4ed2-a04f-bc488b8aa9c1
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9a06b5-27d1-4aeb-94ac-35feef13d551
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+END:VEVENT
+BEGIN:VEVENT
+UID:7d8a0d4b-ecd4-4265-b97a-a0c6ee135e79
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190922
+END:VEVENT
+BEGIN:VEVENT
+UID:1091a4f8-2e9e-4662-ba9b-0b4bca30bb83
+SUMMARY:Tour du Numérique #4
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190920
+DESCRIPTION:Tour du Numérique #4\nhttps://www.nantesdigitalweek.com/eveneme
+	nt-2019/tour-du-numerique-4/\n12 au 20 sept. 2019\n\n-----------\n<div><p 
+	class='date'>12 au 20 sept. 2019</p><p><a href='https://www.nantesdigitalw
+	eek.com/evenement-2019/tour-du-numerique-4/' title='Tour du Numérique #4'>
+	Tour du Numérique #4</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/tour-du-numerique-4/
+GEO:47.218371;-1.553621000000021
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9b82f2-dccf-4c2e-b553-0a19040857d7
+SUMMARY:⚠️⚠️ Comment j’ai réussi à motiver mes équipes à se former avec le 
+	digital ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Comment j’ai réussi à motiver mes équipes à se former avec le d
+	igital ?\nhttps://www.nantesdigitalweek.com/evenement-2019/motivation-equi
+	pes-former-avec-le-digital/\n20 sept. 2019\n\n-----------\n<div><p class='
+	date'>20 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evene
+	ment-2019/motivation-equipes-former-avec-le-digital/' title='Comment j’ai 
+	réussi à motiver mes équipes à se former avec le digital ?'>Comment j’ai r
+	éussi à motiver mes équipes à se former avec le digital ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/motivation-equipes-for
+	mer-avec-le-digital/
+GEO:47.250497;-1.5544830999999704
+END:VEVENT
+BEGIN:VEVENT
+UID:2eba098e-8822-491a-bf67-93b257d0fa3d
+SUMMARY:⚠️⚠️ #LâcheTaManette\, IRL
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:#LâcheTaManette\, IRL\nhttps://www.nantesdigitalweek.com/evenem
+	ent-2019/lachetamanette-irl/\n21 sept. 2019\n\n-----------\n<div><p class=
+	'date'>21 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/even
+	ement-2019/lachetamanette-irl/' title='#LâcheTaManette\, IRL'>#LâcheTaMane
+	tte\, IRL</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/lachetamanette-irl/
+GEO:47.2618336;-1.5740796999999702
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1aaf22-7f61-42ad-acf8-fe6012a29159
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+END:VEVENT
+BEGIN:VEVENT
+UID:3e19e239-ef42-4d40-811b-ad55aaf4ca54
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0af35e-e71d-45dc-af74-4b2bf445cfeb
+SUMMARY:⚠️⚠️ Mash Up Nantes #18 : quand l’entrepreneuriat rencontre les éto
+	iles
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Mash Up Nantes #18 : quand l’entrepreneuriat rencontre les étoi
+	les\nhttps://www.nantesdigitalweek.com/evenement-2019/mash-up-nantes-18/\n
+	18 sept. 2019\n\n-----------\n<div><p class='date'>18 sept. 2019</p><p><a 
+	href='https://www.nantesdigitalweek.com/evenement-2019/mash-up-nantes-18/'
+	 title='Mash Up Nantes #18 : quand l&#8217\;entrepreneuriat rencontre les 
+	étoiles'>Mash Up Nantes #18 : quand l&#8217\;entrepreneuriat rencontre les
+	 étoiles</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/mash-up-nantes-18/
+GEO:47.2177687;-1.5592861000000084
+END:VEVENT
+BEGIN:VEVENT
+UID:02cb343a-c677-454a-a089-7ef621008ac4
+SUMMARY:⚠️⚠️ Entraide et solidarités numériques
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Entraide et solidarités numériques\nhttps://www.nantesdigitalwe
+	ek.com/evenement-2019/entraide-et-solidarites-numeriques/\n14 sept. 2019\n
+	\n-----------\n<div><p class='date'>14 sept. 2019</p><p><a href='https://w
+	ww.nantesdigitalweek.com/evenement-2019/entraide-et-solidarites-numeriques
+	/' title='Entraide et solidarités numériques'>Entraide et solidarités numé
+	riques</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/entraide-et-solidarite
+	s-numeriques/
+GEO:47.1811681;-1.588761100000056
+END:VEVENT
+BEGIN:VEVENT
+UID:6bba9d5e-d43c-4f39-98e7-1b37a6d7c6e8
+SUMMARY:⚠️⚠️ Cap sur le Code !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Cap sur le Code !\nhttps://www.nantesdigitalweek.com/evenement-
+	2019/cap-sur-le-code/\n18 sept. 2019\n\n-----------\n<div><p class='date'>
+	18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/cap-sur-le-code/' title='Cap sur le Code !'>Cap sur le Code !</a></p><
+	/div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/cap-sur-le-code/
+GEO:47.2172873;-1.5334563999999773
+END:VEVENT
+BEGIN:VEVENT
+UID:bf76bbf9-09a7-4dfb-a746-e4b90929aba5
+SUMMARY:Agent·e·s : êtes-vous prêt·e·s pour une nouvelle mission ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:Agent·e·s : êtes-vous prêt·e·s pour une nouvelle mission ?\nhtt
+	ps://www.nantesdigitalweek.com/evenement-2019/escape-game/\nDu 12 au 22 se
+	pt. 2019\n\n-----------\n<div><p class='date'>Du 12 au 22 sept. 2019</p><p
+	><a href='https://www.nantesdigitalweek.com/evenement-2019/escape-game/' t
+	itle='Agent·e·s : êtes-vous prêt·e·s pour une nouvelle mission ?'>Agent·e·
+	s : êtes-vous prêt·e·s pour une nouvelle mission ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/escape-game/
+GEO:47.2128149;-1.554611199999954
+END:VEVENT
+BEGIN:VEVENT
+UID:e9215f4f-2626-4326-8be4-1bf9d194ef21
+SUMMARY:⚠️⚠️ Salon de la Data
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190910
+DESCRIPTION:Salon de la Data\nhttps://www.nantesdigitalweek.com/evenement-2
+	019/salon-de-la-data/\n10 sept. 2019\n\n-----------\n<div><p class='date'>
+	10 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/salon-de-la-data/' title='Salon de la Data'>Salon de la Data</a></p></
+	div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/salon-de-la-data/
+GEO:47.2131428;-1.5427025999999842
+END:VEVENT
+BEGIN:VEVENT
+UID:b0daa883-b116-4e28-9f40-88b4e447bdcc
+SUMMARY:⚠️⚠️ Apéro Numérique : Objets connectés et big data\, quel avenir p
+	our notre vie privée ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Apéro Numérique : Objets connectés et big data\, quel avenir po
+	ur notre vie privée ?\nhttps://www.nantesdigitalweek.com/evenement-2019/ap
+	ero-numerique/\n17 sept. 2019\n\n-----------\n<div><p class='date'>17 sept
+	. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/ape
+	ro-numerique/' title='Apéro Numérique : Objets connectés et big data\, que
+	l avenir pour notre vie privée ?'>Apéro Numérique : Objets connectés et bi
+	g data\, quel avenir pour notre vie privée ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/apero-numerique/
+GEO:47.20071360000001;-1.5730105000000094
+END:VEVENT
+BEGIN:VEVENT
+UID:3c7c761b-0fa9-4de8-b0bb-131d867cadc7
+SUMMARY:Jules Verne 2.0\, l’expédition interactive et immersive
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:Jules Verne 2.0\, l’expédition interactive et immersive\nhttps:
+	//www.nantesdigitalweek.com/evenement-2019/jules-verne-expedition-interact
+	ive-et-immersive/\nDu 20 au 22 sept. 2019\n\n-----------\n<div><p class='d
+	ate'>Du 20 au 22 sept. 2019</p><p><a href='https://www.nantesdigitalweek.c
+	om/evenement-2019/jules-verne-expedition-interactive-et-immersive/' title=
+	'Jules Verne 2.0\, l&#8217\;expédition interactive et immersive'>Jules Ver
+	ne 2.0\, l&#8217\;expédition interactive et immersive</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/jules-verne-expedition
+	-interactive-et-immersive/
+GEO:47.2054264;-1.563013299999966
+END:VEVENT
+BEGIN:VEVENT
+UID:bb4e1dd0-bd3a-4c68-ad9e-19648b9e9327
+SUMMARY:⚠️⚠️ Comment intégrer l’expérience client B2B au cœur d’une transfo
+	rmation digitale : retour d’expérience Manitou
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Comment intégrer l’expérience client B2B au cœur d’une transfor
+	mation digitale : retour d’expérience Manitou\nhttps://www.nantesdigitalwe
+	ek.com/evenement-2019/experience-client-b2b-transformation-digitale/\n19 s
+	ept.  2019\n\n-----------\n<div><p class='date'>19 sept.  2019</p><p><a hr
+	ef='https://www.nantesdigitalweek.com/evenement-2019/experience-client-b2b
+	-transformation-digitale/' title='Comment intégrer l’expérience client B2B
+	 au cœur d’une transformation digitale : retour d’expérience Manitou'>Comm
+	ent intégrer l’expérience client B2B au cœur d’une transformation digitale
+	 : retour d’expérience Manitou</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/experience-client-b2b-
+	transformation-digitale/
+GEO:47.2046759;-1.5548883999999816
+END:VEVENT
+BEGIN:VEVENT
+UID:7eee98b1-eacf-42a6-8356-3a45515b9ffb
+SUMMARY:⚠️⚠️ Socio-digital : l’Humain au cœur de votre transformation numér
+	ique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Socio-digital : l’Humain au cœur de votre transformation numéri
+	que\nhttps://www.nantesdigitalweek.com/evenement-2019/socio-digital-humain
+	-au-coeur-de-votre-transformation-numerique/\n19 sept. 2019\n\n-----------
+	\n<div><p class='date'>19 sept. 2019</p><p><a href='https://www.nantesdigi
+	talweek.com/evenement-2019/socio-digital-humain-au-coeur-de-votre-transfor
+	mation-numerique/' title='Socio-digital : l&#8217\;Humain au cœur de votre
+	 transformation numérique'>Socio-digital : l&#8217\;Humain au cœur de votr
+	e transformation numérique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/socio-digital-humain-a
+	u-coeur-de-votre-transformation-numerique/
+GEO:47.2066244;-1.574648400000001
+END:VEVENT
+BEGIN:VEVENT
+UID:d35809a9-700e-4984-adf2-dc49cfe5f8b0
+SUMMARY:⚠️⚠️ Artisans du bâtiment : sortez la tête de l’eau
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+DESCRIPTION:Artisans du bâtiment : sortez la tête de l’eau\nhttps://www.nan
+	tesdigitalweek.com/evenement-2019/artisans-du-batiment-numerique/\n16 sept
+	. 2019\n\n-----------\n<div><p class='date'>16 sept. 2019</p><p><a href='h
+	ttps://www.nantesdigitalweek.com/evenement-2019/artisans-du-batiment-numer
+	ique/' title='Artisans du bâtiment : sortez la tête de l&#8217\;eau'>Artis
+	ans du bâtiment : sortez la tête de l&#8217\;eau</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/artisans-du-batiment-n
+	umerique/
+GEO:47.1664617;-1.581222700000012
+END:VEVENT
+BEGIN:VEVENT
+UID:478f0128-b5e5-4500-8ad2-65fb1ccad91d
+SUMMARY:⚠️⚠️ Enlarge your pitch : les clés d’un pitch qui déchire !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DESCRIPTION:Enlarge your pitch : les clés d’un pitch qui déchire !\nhttps:/
+	/www.nantesdigitalweek.com/evenement-2019/enlarge-your-pitch-les-cles-pitc
+	h-qui-dechire/\n12 sept. 2019\n\n-----------\n<div><p class='date'>12 sept
+	. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/enl
+	arge-your-pitch-les-cles-pitch-qui-dechire/' title='Enlarge your pitch : l
+	es clés d’un pitch qui déchire !'>Enlarge your pitch : les clés d’un pitch
+	 qui déchire !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/enlarge-your-pitch-les
+	-cles-pitch-qui-dechire/
+GEO:47.2046759;-1.5548883999999816
+END:VEVENT
+BEGIN:VEVENT
+UID:79c0f6b5-57fc-45e5-bbd2-12bb099b8eda
+SUMMARY:⚠️⚠️ Apprendre à l’ère du digital
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:Apprendre à l’ère du digital\nhttps://www.nantesdigitalweek.com
+	/evenement-2019/apprendre-ere-du-digital/\n13 sept. 2019\n\n-----------\n<
+	div><p class='date'>13 sept. 2019</p><p><a href='https://www.nantesdigital
+	week.com/evenement-2019/apprendre-ere-du-digital/' title='Apprendre à l&#8
+	217\;ère du digital'>Apprendre à l&#8217\;ère du digital</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/apprendre-ere-du-digit
+	al/
+GEO:47.20574889999999;-1.5657238999999663
+END:VEVENT
+BEGIN:VEVENT
+UID:2227fe8c-6ff5-4ec4-8f09-70ed6c90e255
+SUMMARY:⚠️⚠️ COMPLET : Numérique en commun[s] @ NANTES
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:COMPLET : Numérique en commun[s] @ NANTES\nhttps://www.nantesdi
+	gitalweek.com/evenement-2019/numerique-en-communs-nantes/\n17 sept. 2019\n
+	\n-----------\n<div><p class='date'>17 sept. 2019</p><p><a href='https://w
+	ww.nantesdigitalweek.com/evenement-2019/numerique-en-communs-nantes/' titl
+	e='COMPLET : Numérique en commun[s] @ NANTES'>COMPLET : Numérique en commu
+	n[s] @ NANTES</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/numerique-en-communs-n
+	antes/
+GEO:47.157469;-1.5442967999999837
+END:VEVENT
+BEGIN:VEVENT
+UID:c50f7650-340f-43e6-a948-6b9da573474e
+SUMMARY:⚠️⚠️ Devenez « sherpa » des données éco-responsables du territoire 
+	nantais !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Devenez « sherpa » des données éco-responsables du territoire n
+	antais !\nhttps://www.nantesdigitalweek.com/evenement-2019/devenez-sherpa-
+	des-donnees-eco-responsables-du-territoire-nantais/\n18 sept. 2019\n\n----
+	-------\n<div><p class='date'>18 sept. 2019</p><p><a href='https://www.nan
+	tesdigitalweek.com/evenement-2019/devenez-sherpa-des-donnees-eco-responsab
+	les-du-territoire-nantais/' title='Devenez « sherpa » des données éco-resp
+	onsables du territoire nantais !'>Devenez « sherpa » des données éco-respo
+	nsables du territoire nantais !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/devenez-sherpa-des-don
+	nees-eco-responsables-du-territoire-nantais/
+GEO:47.2047695;-1.568371999999954
+END:VEVENT
+BEGIN:VEVENT
+UID:39b03980-c666-4946-954e-16c25f1f1898
+SUMMARY:⚠️⚠️ Quels sont les impacts de l’industrie 4.0 dans les industries 
+	et le monde numérique ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+DESCRIPTION:Quels sont les impacts de l’industrie 4.0 dans les industries e
+	t le monde numérique ?\nhttps://www.nantesdigitalweek.com/evenement-2019/i
+	mpacts-industrie-et-le-monde-numerique/\n16 sept.  2019\n\n-----------\n<d
+	iv><p class='date'>16 sept.  2019</p><p><a href='https://www.nantesdigital
+	week.com/evenement-2019/impacts-industrie-et-le-monde-numerique/' title='Q
+	uels sont les impacts de l&#8217\;industrie 4.0 dans les industries et le 
+	monde numérique ?'>Quels sont les impacts de l&#8217\;industrie 4.0 dans l
+	es industries et le monde numérique ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/impacts-industrie-et-l
+	e-monde-numerique/
+GEO:47.1654108;-1.5876479999999447
+END:VEVENT
+BEGIN:VEVENT
+UID:f645b420-809f-4646-b853-243cd9f2c3d7
+SUMMARY:⚠️⚠️ Travailler dans le numérique : à bas les clichés !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+DESCRIPTION:Travailler dans le numérique : à bas les clichés !\nhttps://www
+	.nantesdigitalweek.com/evenement-2019/travailler-dans-le-numerique-a-bas-l
+	es-cliches/\n16 sept. 2019\n\n-----------\n<div><p class='date'>16 sept. 2
+	019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/travai
+	ller-dans-le-numerique-a-bas-les-cliches/' title='Travailler dans le numér
+	ique : à bas les clichés !'>Travailler dans le numérique : à bas les clich
+	és !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/travailler-dans-le-num
+	erique-a-bas-les-cliches/
+GEO:47.2071068;-1.5555922999999439
+END:VEVENT
+BEGIN:VEVENT
+UID:2b19884e-3081-46bb-8c93-f7237be95c55
+SUMMARY:⚠️⚠️ Hacké.e\, malgré moi !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DESCRIPTION:Hacké.e\, malgré moi !\nhttps://www.nantesdigitalweek.com/evene
+	ment-2019/hacke-malgre-moi/\n13 sept. 2019\n\n-----------\n<div><p class='
+	date'>13 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evene
+	ment-2019/hacke-malgre-moi/' title='Hacké.e\, malgré moi !'>Hacké.e\, malg
+	ré moi !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/hacke-malgre-moi/
+GEO:47.2468303;-1.5530794000000014
+END:VEVENT
+BEGIN:VEVENT
+UID:3a47144a-a2c8-4724-b42b-f7972a40a2fa
+SUMMARY:⚠️⚠️ Cyber guerre : une nouvelle guerre froide ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DESCRIPTION:Cyber guerre : une nouvelle guerre froide ?\nhttps://www.nantes
+	digitalweek.com/evenement-2019/cyber-guerre-une-nouvelle-guerre-froide/\n1
+	2 sept. 2019\n\n-----------\n<div><p class='date'>12 sept. 2019</p><p><a h
+	ref='https://www.nantesdigitalweek.com/evenement-2019/cyber-guerre-une-nou
+	velle-guerre-froide/' title='Cyber guerre : une nouvelle guerre froide ?'>
+	Cyber guerre : une nouvelle guerre froide ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/cyber-guerre-une-nouve
+	lle-guerre-froide/
+GEO:47.2045189;-1.5608392999999978
+END:VEVENT
+BEGIN:VEVENT
+UID:d5147cd1-5979-4bea-945b-c71af9126fa1
+SUMMARY:⚠️⚠️ La créa façon tatin !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:La créa façon tatin !\nhttps://www.nantesdigitalweek.com/evenem
+	ent-2019/la-crea-facon-tatin/\n19 sept.  2019\n\n-----------\n<div><p clas
+	s='date'>19 sept.  2019</p><p><a href='https://www.nantesdigitalweek.com/e
+	venement-2019/la-crea-facon-tatin/' title='La créa façon tatin !'>La créa 
+	façon tatin !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/la-crea-facon-tatin/
+GEO:47.28430969999999;-1.5412257000000409
+END:VEVENT
+BEGIN:VEVENT
+UID:b23b6781-7b5f-4fc6-b872-1b721bfb9245
+SUMMARY:⚠️⚠️ Mobilisons le digital pour réussir à l’international !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Mobilisons le digital pour réussir à l’international !\nhttps:/
+	/www.nantesdigitalweek.com/evenement-2019/mobilisons-le-digital-pour-reuss
+	ir-a-international/\n17 sept. 2019\n\n-----------\n<div><p class='date'>17
+	 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-201
+	9/mobilisons-le-digital-pour-reussir-a-international/' title='Mobilisons l
+	e digital pour réussir à l&#8217\;international !'>Mobilisons le digital p
+	our réussir à l&#8217\;international !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/mobilisons-le-digital-
+	pour-reussir-a-international/
+GEO:47.2271817;-1.518791800000031
+END:VEVENT
+BEGIN:VEVENT
+UID:17ff1f2a-ad0f-41b4-a267-47a07386c1eb
+SUMMARY:⚠️⚠️ Et si ma maîtresse / mon maître était un robot ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Et si ma maîtresse / mon maître était un robot ?\nhttps://www.n
+	antesdigitalweek.com/evenement-2019/et-si-ma-maitresse-mon-maitre-etait-un
+	-robot/\n14 sept. 2019\n\n-----------\n<div><p class='date'>14 sept. 2019<
+	/p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/et-si-ma-m
+	aitresse-mon-maitre-etait-un-robot/' title='Et si ma maîtresse / mon maîtr
+	e était un robot ?'>Et si ma maîtresse / mon maître était un robot ?</a></
+	p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/et-si-ma-maitresse-mon
+	-maitre-etait-un-robot/
+GEO:47.2036576;-1.570995499999981
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e245dd-9251-4374-8895-49e99cb06072
+SUMMARY:⚠️⚠️ La mangeoire numérique pour les oiseaux
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:La mangeoire numérique pour les oiseaux\nhttps://www.nantesdigi
+	talweek.com/evenement-2019/mangeoire-numerique-oiseaux/\n18 sept. 2019\n\n
+	-----------\n<div><p class='date'>18 sept. 2019</p><p><a href='https://www
+	.nantesdigitalweek.com/evenement-2019/mangeoire-numerique-oiseaux/' title=
+	'La mangeoire numérique pour les oiseaux'>La mangeoire numérique pour les 
+	oiseaux</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/mangeoire-numerique-oi
+	seaux/
+GEO:47.1922791;-1.577678600000013
+END:VEVENT
+BEGIN:VEVENT
+UID:8fccdac8-ace0-4798-916f-cab473820142
+SUMMARY:⚠️⚠️ Habitat et données numériques
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+DESCRIPTION:Habitat et données numériques\nhttps://www.nantesdigitalweek.co
+	m/evenement-2019/habitat-et-donnees-numeriques/\n16 sept. 2019\n\n--------
+	---\n<div><p class='date'>16 sept. 2019</p><p><a href='https://www.nantesd
+	igitalweek.com/evenement-2019/habitat-et-donnees-numeriques/' title='Habit
+	at et données numériques'>Habitat et données numériques</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/habitat-et-donnees-num
+	eriques/
+GEO:47.1922791;-1.577678600000013
+END:VEVENT
+BEGIN:VEVENT
+UID:f352b289-e1eb-43a9-8b5a-7d474a010d69
+SUMMARY:Le Nantes Electronic Art Rencontre [NEAR]
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190921
+DESCRIPTION:Le Nantes Electronic Art Rencontre [NEAR]\nhttps://www.nantesdi
+	gitalweek.com/evenement-2019/nantes-electronic-art-rencontre-near/\n17 au 
+	21 sept. 2019\n\n-----------\n<div><p class='date'>17 au 21 sept. 2019</p>
+	<p><a href='https://www.nantesdigitalweek.com/evenement-2019/nantes-electr
+	onic-art-rencontre-near/' title='Le Nantes Electronic Art Rencontre [NEAR]
+	'>Le Nantes Electronic Art Rencontre [NEAR]</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/nantes-electronic-art-
+	rencontre-near/
+GEO:47.2065814;-1.564369299999953
+END:VEVENT
+BEGIN:VEVENT
+UID:578aea25-b50e-40eb-9761-8ea5166960ee
+SUMMARY:⚠️⚠️ Atelier MAO
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DESCRIPTION:Atelier MAO\nhttps://www.nantesdigitalweek.com/evenement-2019/a
+	telier-mao/\n12 sept. 2019\n\n-----------\n<div><p class='date'>12 sept. 2
+	019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/atelie
+	r-mao/' title='Atelier MAO'>Atelier MAO</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/atelier-mao/
+GEO:47.2166394;-1.5587805999999773
+END:VEVENT
+BEGIN:VEVENT
+UID:8aab0b6b-90ce-49a1-af10-17b988f73cdc
+SUMMARY:⚠️⚠️ Le digital au service de la RSE
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Le digital au service de la RSE\nhttps://www.nantesdigitalweek.
+	com/evenement-2019/le-digital-au-service-de-la-rse/\n17 sept. 2019\n\n----
+	-------\n<div><p class='date'>17 sept. 2019</p><p><a href='https://www.nan
+	tesdigitalweek.com/evenement-2019/le-digital-au-service-de-la-rse/' title=
+	'Le digital au service de la RSE'>Le digital au service de la RSE</a></p><
+	/div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/le-digital-au-service-
+	de-la-rse/
+GEO:47.20141799999999;-1.5709130000000187
+END:VEVENT
+BEGIN:VEVENT
+UID:c09dd259-9ffa-4311-af1e-b7afadd86720
+SUMMARY:⚠️⚠️ Atelier pour les ados : construction & programmation des robot
+	s Algora
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+DESCRIPTION:Atelier pour les ados : construction & programmation des robots
+	 Algora\nhttps://www.nantesdigitalweek.com/evenement-2019/construction-pro
+	grammation-des-robots-algora/\n21 sept. 2019\n\n-----------\n<div><p class
+	='date'>21 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eve
+	nement-2019/construction-programmation-des-robots-algora/' title='Atelier 
+	pour les ados : construction &#038\; programmation des robots Algora'>Atel
+	ier pour les ados : construction &#038\; programmation des robots Algora</
+	a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/construction-programma
+	tion-des-robots-algora/
+GEO:47.2258511;-1.6178446000000122
+END:VEVENT
+BEGIN:VEVENT
+UID:54771cfb-c1d8-419b-b294-d1b9489125d4
+SUMMARY:⚠️⚠️ Culture et patrimoine numérique à Nantes
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Culture et patrimoine numérique à Nantes\nhttps://www.nantesdig
+	italweek.com/evenement-2019/culture-patrimoine-numerique-nantes/\n20 sept.
+	 2019\n\n-----------\n<div><p class='date'>20 sept. 2019</p><p><a href='ht
+	tps://www.nantesdigitalweek.com/evenement-2019/culture-patrimoine-numeriqu
+	e-nantes/' title='Culture et patrimoine numérique à Nantes'>Culture et pat
+	rimoine numérique à Nantes</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/culture-patrimoine-num
+	erique-nantes/
+GEO:47.2060884;-1.5575777000000244
+END:VEVENT
+BEGIN:VEVENT
+UID:276333ce-b843-40bc-9726-a9dc092d7060
+SUMMARY:⚠️⚠️ À vous de coder ! Une initiation à la programmation informatiq
+	ue
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:À vous de coder ! Une initiation à la programmation informatiqu
+	e\nhttps://www.nantesdigitalweek.com/evenement-2019/initiation-a-la-progra
+	mmation-informatique/\n18 sept. 2019\n\n-----------\n<div><p class='date'>
+	18 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/initiation-a-la-programmation-informatique/' title='À vous de coder ! 
+	Une initiation à la programmation informatique'>À vous de coder ! Une init
+	iation à la programmation informatique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/initiation-a-la-progra
+	mmation-informatique/
+GEO:47.2164079;-1.560987999999952
+END:VEVENT
+BEGIN:VEVENT
+UID:cde0bd74-58e6-4a33-893f-b11be87c3bde
+SUMMARY:⚠️⚠️ Imaginez votre première application mobile dessinez-la avec Ma
+	rvel App
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190917
+DESCRIPTION:Imaginez votre première application mobile dessinez-la avec Mar
+	vel App\nhttps://www.nantesdigitalweek.com/evenement-2019/application-mobi
+	le-marvel-app/\n17 sept. 2019\n\n-----------\n<div><p class='date'>17 sept
+	. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/app
+	lication-mobile-marvel-app/' title='Imaginez votre première application mo
+	bile dessinez-la avec Marvel App'>Imaginez votre première application mobi
+	le dessinez-la avec Marvel App</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/application-mobile-mar
+	vel-app/
+GEO:47.2164079;-1.560987999999952
+END:VEVENT
+BEGIN:VEVENT
+UID:8c122b5f-0d81-4db9-a261-20b5d430ce11
+SUMMARY:⚠️⚠️ Atelier 1 enfant/1 senior : construction & programmation des r
+	obots Algora
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Atelier 1 enfant/1 senior : construction & programmation des ro
+	bots Algora\nhttps://www.nantesdigitalweek.com/evenement-2019/atelier-cons
+	truction-programmation-des-robots-algora/\n14 sept. 2019\n\n-----------\n<
+	div><p class='date'>14 sept. 2019</p><p><a href='https://www.nantesdigital
+	week.com/evenement-2019/atelier-construction-programmation-des-robots-algo
+	ra/' title='Atelier 1 enfant/1 senior : construction &#038\; programmation
+	 des robots Algora'>Atelier 1 enfant/1 senior : construction &#038\; progr
+	ammation des robots Algora</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/atelier-construction-p
+	rogrammation-des-robots-algora/
+GEO:47.2258511;-1.6178446000000122
+END:VEVENT
+BEGIN:VEVENT
+UID:107ea46b-747c-49b3-9509-6717c39470ce
+SUMMARY:⚠️⚠️ Le numérique : une chance pour les habitant·e·s des quartiers 
+	prioritaires / populaires ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+DESCRIPTION:Le numérique : une chance pour les habitant·e·s des quartiers p
+	rioritaires / populaires ?\nhttps://www.nantesdigitalweek.com/evenement-20
+	19/le-numerique-une-chance-pour-les-habitants-des-quartiers-prioritaires/\
+	n18 sept. 2019\n\n-----------\n<div><p class='date'>18 sept. 2019</p><p><a
+	 href='https://www.nantesdigitalweek.com/evenement-2019/le-numerique-une-c
+	hance-pour-les-habitants-des-quartiers-prioritaires/' title='Le numérique 
+	: une chance pour les habitant·e·s des quartiers prioritaires / populaires
+	 ?'>Le numérique : une chance pour les habitant·e·s des quartiers priorita
+	ires / populaires ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/le-numerique-une-chanc
+	e-pour-les-habitants-des-quartiers-prioritaires/
+GEO:47.20416519999999;-1.5463376000000153
+END:VEVENT
+BEGIN:VEVENT
+UID:636b466d-a3e3-4ee5-aa2c-c51e75a56ab9
+SUMMARY:⚠️⚠️ Forum Tech for Good
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Forum Tech for Good\nhttps://www.nantesdigitalweek.com/evenemen
+	t-2019/forum-tech-for-good/\n19 sept.  2019\n\n-----------\n<div><p class=
+	'date'>19 sept.  2019</p><p><a href='https://www.nantesdigitalweek.com/eve
+	nement-2019/forum-tech-for-good/' title='Forum Tech for Good'>Forum Tech f
+	or Good</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/forum-tech-for-good/
+GEO:47.20138;-1.5597482000000582
+END:VEVENT
+BEGIN:VEVENT
+UID:f5437ff3-6500-447d-a1d3-1cbdc58fa13c
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190918
+END:VEVENT
+BEGIN:VEVENT
+UID:30e0f1e9-3992-48a8-936b-69d5058863f2
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+END:VEVENT
+BEGIN:VEVENT
+UID:0c34cef7-ede9-4d5e-baf3-7782b5acf00e
+SUMMARY:⚠️⚠️ Voyage initiatique au cœur de la cybersécurité de nos entrepri
+	ses locales
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190916
+DESCRIPTION:Voyage initiatique au cœur de la cybersécurité de nos entrepris
+	es locales\nhttps://www.nantesdigitalweek.com/evenement-2019/cybersecurite
+	-entreprises-locales/\n16 sept. 2019\n\n-----------\n<div><p class='date'>
+	16 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2
+	019/cybersecurite-entreprises-locales/' title='Voyage initiatique au cœur 
+	de la cybersécurité de nos entreprises locales'>Voyage initiatique au cœur
+	 de la cybersécurité de nos entreprises locales</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/cybersecurite-entrepri
+	ses-locales/
+GEO:47.2144486;-1.562566400000037
+END:VEVENT
+BEGIN:VEVENT
+UID:a00b282f-dbf2-496d-a926-6d98eecf91b9
+SUMMARY:IASP 2019  Nantes
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190927
+DESCRIPTION:IASP 2019  Nantes\nhttps://www.nantesdigitalweek.com/evenement-
+	2019/iasp-2019-nantes/\nDu 24 au 27 sept. 2019\n\n-----------\n<div><p cla
+	ss='date'>Du 24 au 27 sept. 2019</p><p><a href='https://www.nantesdigitalw
+	eek.com/evenement-2019/iasp-2019-nantes/' title='IASP 2019  Nantes'>IASP 2
+	019  Nantes</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/iasp-2019-nantes/
+GEO:47.2131428;-1.5427025999999842
+END:VEVENT
+BEGIN:VEVENT
+UID:c3049a54-160b-4bb3-80dc-b8e2f3e553ea
+SUMMARY:⚠️⚠️ La Cybersécurité Positive et Humaine
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:La Cybersécurité Positive et Humaine\nhttps://www.nantesdigital
+	week.com/evenement-2019/la-cybersecurite-positive-et-humaine/\n20 sept. 20
+	19\n\n-----------\n<div><p class='date'>20 sept. 2019</p><p><a href='https
+	://www.nantesdigitalweek.com/evenement-2019/la-cybersecurite-positive-et-h
+	umaine/' title='La Cybersécurité Positive et Humaine'>La Cybersécurité Pos
+	itive et Humaine</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/la-cybersecurite-posit
+	ive-et-humaine/
+GEO:47.1481561;-1.6410152999999355
+END:VEVENT
+BEGIN:VEVENT
+UID:efe13994-bb3d-4aef-ab21-7f9f678eb0c8
+SUMMARY:⚠️⚠️ ANNULÉ – Les Cafés de la Création by CA
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:ANNULÉ – Les Cafés de la Création by CA\nhttps://www.nantesdigi
+	talweek.com/evenement-2019/les-cafes-de-la-creation-by-ca/\n19 sept.  2019
+	\n\n-----------\n<div><p class='date'>19 sept.  2019</p><p><a href='https:
+	//www.nantesdigitalweek.com/evenement-2019/les-cafes-de-la-creation-by-ca/
+	' title='ANNULÉ &#8211\; Les Cafés de la Création by CA'>ANNULÉ &#8211\; L
+	es Cafés de la Création by CA</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/les-cafes-de-la-creati
+	on-by-ca/
+GEO:47.1942194;-1.6271683999999595
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc50bcd-c979-4117-8771-ad972f409813
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190921
+END:VEVENT
+BEGIN:VEVENT
+UID:028dc368-253a-4d5d-b9a9-f462fe8ab8a7
+SUMMARY:Untitled event
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190922
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd5a3e5-6229-4a2e-a464-233578a30eab
+SUMMARY:⚠️⚠️ Smart building : performance et valorisation du patrimoine !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Smart building : performance et valorisation du patrimoine !\nh
+	ttps://www.nantesdigitalweek.com/evenement-2019/smart-building-performance
+	-et-valorisation-du-patrimoine/\n20 sept. 2019\n\n-----------\n<div><p cla
+	ss='date'>20 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/e
+	venement-2019/smart-building-performance-et-valorisation-du-patrimoine/' t
+	itle='Smart building : performance et valorisation du patrimoine !'>Smart 
+	building : performance et valorisation du patrimoine !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/smart-building-perform
+	ance-et-valorisation-du-patrimoine/
+GEO:47.206572;-1.5638779999999315
+END:VEVENT
+BEGIN:VEVENT
+UID:1f00fd0e-9cca-4e9e-a34c-71e3e1015d53
+SUMMARY:⚠️⚠️ Une seconde vie pour votre PC : Linux\, une alternative à Wind
+	ows
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190914
+DESCRIPTION:Une seconde vie pour votre PC : Linux\, une alternative à Windo
+	ws\nhttps://www.nantesdigitalweek.com/evenement-2019/seconde-vie-pour-votr
+	e-pc/\n14 sept. 2019\n\n-----------\n<div><p class='date'>14 sept. 2019</p
+	><p><a href='https://www.nantesdigitalweek.com/evenement-2019/seconde-vie-
+	pour-votre-pc/' title='Une seconde vie pour votre PC : Linux\, une alterna
+	tive à Windows'>Une seconde vie pour votre PC : Linux\, une alternative à 
+	Windows</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/seconde-vie-pour-votre
+	-pc/
+GEO:47.2390914;-1.519919200000004
+END:VEVENT
+BEGIN:VEVENT
+UID:43a535ed-bc41-4d58-8913-530510c01aa9
+SUMMARY:⚠️⚠️ L’Hôpital Numérique
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:L’Hôpital Numérique\nhttps://www.nantesdigitalweek.com/evenemen
+	t-2019/hopital-numerique/\n19 sept. 2019\n\n-----------\n<div><p class='da
+	te'>19 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eveneme
+	nt-2019/hopital-numerique/' title='L&#8217\;Hôpital Numérique'>L&#8217\;Hô
+	pital Numérique</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/hopital-numerique/
+GEO:47.20416699999999;-1.5472220000000334
+END:VEVENT
+BEGIN:VEVENT
+UID:67c7e474-9ce8-4184-80ce-ebc188a2eac9
+SUMMARY:⚠️⚠️ L’IA\, une mine d’or ?
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:L’IA\, une mine d’or ?\nhttps://www.nantesdigitalweek.com/evene
+	ment-2019/ia-une-mine-or/\n20 sept. 2019\n\n-----------\n<div><p class='da
+	te'>20 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eveneme
+	nt-2019/ia-une-mine-or/' title='L&#8217\;IA\, une mine d&#8217\;or ?'>L&#8
+	217\;IA\, une mine d&#8217\;or ?</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/ia-une-mine-or/
+GEO:47.20138;-1.5597482000000582
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa7ec3f-c2f1-493c-b8bb-f40a19a59f2f
+SUMMARY:⚠️⚠️ Megagilosaurus Rex
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Megagilosaurus Rex\nhttps://www.nantesdigitalweek.com/evenement
+	-2019/megagilosaurus-rex/\n19 sept.  2019\n\n-----------\n<div><p class='d
+	ate'>19 sept.  2019</p><p><a href='https://www.nantesdigitalweek.com/evene
+	ment-2019/megagilosaurus-rex/' title='Megagilosaurus Rex'>Megagilosaurus R
+	ex</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/megagilosaurus-rex/
+GEO:47.2326936;-1.6301181999999699
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a8b657-b3dc-4106-a3e0-b18f2d6b37d8
+SUMMARY:⚠️⚠️ Retours d’expériences de l’hôpital numérique du futur
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Retours d’expériences de l’hôpital numérique du futur\nhttps://
+	www.nantesdigitalweek.com/evenement-2019/retours-experiences-hopital-numer
+	ique-du-futur/\n19 sept. 2019\n\n-----------\n<div><p class='date'>19 sept
+	. 2019</p><p><a href='https://www.nantesdigitalweek.com/evenement-2019/ret
+	ours-experiences-hopital-numerique-du-futur/' title='Retours d&#8217\;expé
+	riences de l&#8217\;hôpital numérique du futur'>Retours d&#8217\;expérienc
+	es de l&#8217\;hôpital numérique du futur</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/retours-experiences-ho
+	pital-numerique-du-futur/
+GEO:47.20416699999999;-1.5472220000000334
+END:VEVENT
+BEGIN:VEVENT
+UID:c869f9a8-5027-4565-a981-2f39358cb3d0
+SUMMARY:⚠️⚠️ Inventez la banque digitale de demain !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Inventez la banque digitale de demain !\nhttps://www.nantesdigi
+	talweek.com/evenement-2019/banque-digitale-de-demain/\n19 sept.  2019\n\n-
+	----------\n<div><p class='date'>19 sept.  2019</p><p><a href='https://www
+	.nantesdigitalweek.com/evenement-2019/banque-digitale-de-demain/' title='I
+	nventez la banque digitale de demain !'>Inventez la banque digitale de dem
+	ain !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/banque-digitale-de-dem
+	ain/
+GEO:47.2038885;-1.5690008000000262
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ab8d4e-6de1-4673-9511-88c77dbf0618
+SUMMARY:⚠️⚠️ Goûtez électronique 2019 !
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190922
+DESCRIPTION:Goûtez électronique 2019 !\nhttps://www.nantesdigitalweek.com/e
+	venement-2019/goutez-electronique-2019/\n22 sept. 2019\n\n-----------\n<di
+	v><p class='date'>22 sept. 2019</p><p><a href='https://www.nantesdigitalwe
+	ek.com/evenement-2019/goutez-electronique-2019/' title='Goûtez électroniqu
+	e 2019 !'>Goûtez électronique 2019 !</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/goutez-electronique-20
+	19/
+GEO:47.2074631;-1.5658587000000352
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdfb66e-dfa4-4349-82f1-d904122c8064
+SUMMARY:SCOPITONE – Les rendez-vous du Labo
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:SCOPITONE – Les rendez-vous du Labo\nhttps://www.nantesdigitalw
+	eek.com/evenement-2019/scopitone-les-rendez-vous-du-labo/\nDu 13 au 22 sep
+	t. 2019\n\n-----------\n<div><p class='date'>Du 13 au 22 sept. 2019</p><p>
+	<a href='https://www.nantesdigitalweek.com/evenement-2019/scopitone-les-re
+	ndez-vous-du-labo/' title='SCOPITONE &#8211\; Les rendez-vous du Labo'>SCO
+	PITONE &#8211\; Les rendez-vous du Labo</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/scopitone-les-rendez-v
+	ous-du-labo/
+GEO:47.20138;-1.5597482000000582
+END:VEVENT
+BEGIN:VEVENT
+UID:f12eb6b2-1326-4e1f-b244-52c72fafed14
+SUMMARY:⚠️⚠️ Exposition : Liberté\, égalité\, fraternité avec le numérique 
+	aussi
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190920
+DESCRIPTION:Exposition : Liberté\, égalité\, fraternité avec le numérique a
+	ussi\nhttps://www.nantesdigitalweek.com/evenement-2019/exposition-liberte-
+	egalite-fraternite-avec-le-numerique-aussi/\n20 sept. 2019\n\n-----------\
+	n<div><p class='date'>20 sept. 2019</p><p><a href='https://www.nantesdigit
+	alweek.com/evenement-2019/exposition-liberte-egalite-fraternite-avec-le-nu
+	merique-aussi/' title='Exposition : Liberté\, égalité\, fraternité avec le
+	 numérique aussi'>Exposition : Liberté\, égalité\, fraternité avec le numé
+	rique aussi</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/exposition-liberte-ega
+	lite-fraternite-avec-le-numerique-aussi/
+GEO:47.2046416;-1.5589442000000417
+END:VEVENT
+BEGIN:VEVENT
+UID:c41fb31c-560c-4c43-a48b-33abc2f59540
+SUMMARY:⚠️⚠️ Rencontres Régionales du Logiciel Libre
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190919
+DESCRIPTION:Rencontres Régionales du Logiciel Libre\nhttps://www.nantesdigi
+	talweek.com/evenement-2019/rencontres-regionales-du-logiciel-libre/\n19 se
+	pt.  2019\n\n-----------\n<div><p class='date'>19 sept.  2019</p><p><a hre
+	f='https://www.nantesdigitalweek.com/evenement-2019/rencontres-regionales-
+	du-logiciel-libre/' title='Rencontres Régionales du Logiciel Libre'>Rencon
+	tres Régionales du Logiciel Libre</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/rencontres-regionales-
+	du-logiciel-libre/
+GEO:47.2109888;-1.5459654
+END:VEVENT
+BEGIN:VEVENT
+UID:710e8817-1d73-4d60-9d66-ab6ae09a6849
+SUMMARY:SCOPITONE
+DTSTAMP:20190919T170600Z
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190922
+DESCRIPTION:SCOPITONE\nhttps://www.nantesdigitalweek.com/evenement-2019/sco
+	pitone/\nDu 12 au 22 sept. 2019\n\n-----------\n<div><p class='date'>Du 12
+	 au 22 sept. 2019</p><p><a href='https://www.nantesdigitalweek.com/eveneme
+	nt-2019/scopitone/' title='SCOPITONE'>SCOPITONE</a></p></div>
+URL:https://www.nantesdigitalweek.com/evenement-2019/scopitone/
+GEO:47.20138;-1.5597482000000582
+END:VEVENT
+END:VCALENDAR
